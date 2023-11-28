@@ -10,4 +10,4 @@ const target = document.querySelector('#target');
 target.appendChild(li1);
 target.appendChild(li2);
 target.appendChild(li3);
-target.classList.add('my-item');
+li2.classList.add('my-item');
